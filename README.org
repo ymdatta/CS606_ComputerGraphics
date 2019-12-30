@@ -1,0 +1,27 @@
+* CS606_ComputerGraphics
+Assignments for the Computer Graphics course at IIITB (2018-19)
+
+_Each Assignment folder has its own README file, which tells how_
+_to run the programs._
+
+Brief description of each assignment:
+
+  - Assignment01: 2D Rendering
+    
+    2D graphical application for rendering a touch-screen calculator.
+
+  - Assignment02: 3D Rendering Using MVC Architecture
+
+    Rendering a 3D scene using more than two objects in the scene.
+    The objects will be rendered using their surface meshes given
+    in .ply format.
+
+  - Assignment03: Lightning and Camera Model + Texture Mapping + Refining MVC.
+
+    Mesh parametrization with texture mapping, and lighting; fine
+    tuning MVC design pattern in software development.
+
+  - Assignment04: Animation.
+
+    Animation of a hierarchial model and tentatively, a virtual reality
+    application.
