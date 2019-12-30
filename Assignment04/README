@@ -1,0 +1,10 @@
+Running:
+-------
+   make
+
+Instructions:
+------------
+Arrow up and down - To increase and decrease speed
+Toggle selected model to spin around vertical axis
+0, 1, 2, 3 - Select the model (if we add a model A first, then pressing 0 would select that model)
+ESC - to quit

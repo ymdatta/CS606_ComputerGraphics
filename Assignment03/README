@@ -1,0 +1,20 @@
+Running:
+-------
+   make
+
+Instructions:
+------------
+1.  T - toggles between textures.
+2.  M - toggles between coordinates(spherical, cylindrical, arbitrary).
+3.  I, J, K, L - Move light source up, left, down, right respectively
+4.  A , D - Move selected model left and right respectively
+5.  UP, DOWN Arrow key - Move selected model up and down respectively
+6.  +, - - Increase, Decrease scale of model respectively
+7.  0, 1, 2 - Select the model
+    (if we add a model A first, then pressing 0 would select that model)
+8. ESC - to quit.
+
+Notable things:
+-------------
+
+Toggling coordinates doesn't change the coordinates of floor, they are fixed.
